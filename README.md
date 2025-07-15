@@ -56,4 +56,4 @@ El archivo `title_basics.tsv` contiene las siguientes columnas:
 ## Justificación de Criterios de Búsqueda
 
 Consideramos que el título y el año de lanzamiento son los criterios más óptimos para la consulta, ya que nos permiten acercarnos a un resultado único y preciso. Aunque pueden existir varias películas con el mismo nombre, su año de lanzamiento suele ser diferente, lo que facilita la identificación de la entrada deseada en la base de datos.
-## Ejecución
+
