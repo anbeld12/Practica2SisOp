@@ -1,4 +1,4 @@
-# Practica1SisOp
+# Practica2SisOp
 
 **Práctica 2: Búsqueda de Películas en Base de Datos**
 
